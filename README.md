@@ -1,2 +1,2 @@
 # devops
-Repository for DevOps Course
+Repository for DevOps Course on Practice branch
